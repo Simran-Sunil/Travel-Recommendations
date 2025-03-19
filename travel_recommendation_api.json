@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Bali Beaches",
+      "category": "beach",
+      "description": "Bali's pristine beaches offer white sands, crystal-clear waters, and stunning sunset views. Perfect for surfing, snorkeling, or simply relaxing in paradise.",
+      "imageUrl": "https://images.unsplash.com/photo-1539367628448-4bc5c9d171c8?q=80&w=400&h=300&fit=crop",
+      "timezone": "Asia/Makassar"
+    },
+    {
+      "id": 2,
+      "name": "Maldives Islands",
+      "category": "beach",
+      "description": "Experience the ultimate luxury beach getaway with overwater bungalows, vibrant coral reefs, and azure waters that stretch as far as the eye can see.",
+      "imageUrl": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?q=80&w=400&h=300&fit=crop",
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "id": 3,
+      "name": "Phi Phi Islands",
+      "category": "beach",
+      "description": "Thailand's famous islands feature dramatic limestone cliffs, hidden lagoons, and some of the most photographed beaches in the world.",
+      "imageUrl": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?q=80&w=400&h=300&fit=crop",
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "id": 4,
+      "name": "Angkor Wat",
+      "category": "temple",
+      "description": "The world's largest religious monument, this ancient temple complex in Cambodia showcases intricate stone carvings and amazing architectural achievements of the Khmer Empire.",
+      "imageUrl": "https://images.unsplash.com/photo-1600133925650-28b5fb486cc4?q=80&w=400&h=300&fit=crop",
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "id": 5,
+      "name": "Golden Temple",
+      "category": "temple",
+      "description": "The holiest shrine in Sikhism, located in Amritsar, India, features a stunning golden structure surrounded by a sacred pool of water known as the Amrit Sarovar.",
+      "imageUrl": "https://images.unsplash.com/photo-1588100035780-a9860d1b73a3?q=80&w=400&h=300&fit=crop",
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "id": 6,
+      "name": "Temple of Heaven",
+      "category": "temple",
+      "description": "This magnificent complex of religious buildings in Beijing served as a place of worship for Chinese emperors seeking divine blessing for good harvests.",
+      "imageUrl": "https://images.unsplash.com/photo-1508804052814-cd3ba865a116?q=80&w=400&h=300&fit=crop",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "id": 7,
+      "name": "Japan",
+      "category": "country",
+      "description": "A fascinating blend of ancient traditions and cutting-edge technology, Japan offers stunning landscapes, rich cultural experiences, and world-renowned cuisine.",
+      "imageUrl": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=400&h=300&fit=crop",
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "id": 8,
+      "name": "Italy",
+      "category": "country",
+      "description": "From ancient ruins to Renaissance art, delicious cuisine to stunning coastlines, Italy offers an endless array of experiences for every type of traveler.",
+      "imageUrl": "https://images.unsplash.com/photo-1529260830199-42c24126f198?q=80&w=400&h=300&fit=crop",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "id": 9,
+      "name": "New Zealand",
+      "category": "country",
+      "description": "Known for its breathtaking landscapes featured in many films, New Zealand offers mountains, fjords, beaches, and vibrant Maori culture in a compact, easy-to-explore country.",
+      "imageUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=400&h=300&fit=crop",
+      "timezone": "Pacific/Auckland"
+    }
+  ]
